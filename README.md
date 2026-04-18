@@ -1,2 +1,2 @@
-# Plataforma-Anal-tica-Territorial
+# Plataforma-Analitica-Territorial
 --
